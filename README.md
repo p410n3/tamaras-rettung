@@ -6,7 +6,7 @@ Lösung zu: https://www.profihost-karriere.de/hilf-tamara/ ...
 Ich habe diese wirklich clevere Aufgabe auf Twitter entdeckt. 
 Da dachte ich mir das Bash wohl die am naheliegendste Sprache ist um dieses Problem zu lösen.
 
-Und da sich Bash so toll angeboten hat, habe ich mich gefragt welche Sprache man dafür wohl eher nicht würde.
+Und da sich Bash so toll angeboten hat, habe ich mich gefragt welche Sprache man dafür wohl eher nicht benutzen würde.
 
 #### Daher hab ich PHP genommen :)
 
