@@ -9,5 +9,6 @@ Da dachte ich mir das Bash wohl die am naheliegendste Sprache ist um dieses Prob
 Und da sich Bash so toll angeboten hat, habe ich mich gefragt welche Sprache man dafür wohl eher nicht benutzen würde.
 
 #### Daher hab ich PHP genommen :)
+(Und weil ich bei PHP noch etwas Nachholbedarf habe)
 
 ![cli-tamara.php](https://palone.top/tamara/tamara.gif)
